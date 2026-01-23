@@ -47,7 +47,7 @@ final class DoneViewController: UIViewController {
         titleLabel?.font = .preferredFont(forTextStyle: .largeTitle)
         titleLabel?.adjustsFontForContentSizeCategory = true
 
-        resultLabel?.text = "\(score) / \(attemptsUsed)"
+        resultLabel?.text = "\(score) questions / \(attemptsUsed) attempts"
         resultLabel?.font = .preferredFont(forTextStyle: .title2)
         statsLabel?.text = "Accuracy: \(percent)"
         statsLabel?.textColor = .secondaryLabel
