@@ -1,2 +1,2 @@
-<img width="585" height="670" alt="Aasiya Memon Key Maestro App Preview Page 2023" src="https://github.com/user-attachments/assets/06f6765a-403a-4f61-8059-2d25bb80b95b" />
-<img width="581" height="192" alt="Aasiya Memon Key Maestro App Preview Page 2023 2" src="https://github.com/user-attachments/assets/016d1162-0f61-4d65-837d-d3464b8894e4" />
+<img width="691" height="790" alt="Screenshot 2026-09-26 at 3 10 26 PM" src="https://github.com/user-attachments/assets/e788cd28-fcd5-459a-b2a3-46eb48911476" />
+<img width="1035" height="339" alt="Screenshot 2026-09-26 at 3 10 33 PM" src="https://github.com/user-attachments/assets/7b8a7c28-fee4-47dc-bd65-e22c808f7728" />
